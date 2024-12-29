@@ -21,6 +21,27 @@ body {
   }
 }
 
+.teaching-page {
+  font-size: 14px;
+}
+
+
+.archive, 
+.page-research, 
+.page-teaching {
+  font-size: 14px; /* Adjust this to your desired size */
+}
+
+.sidebar {
+  font-size: large; /* Keep the original size for sidebar */
+}
+
+.masthead, 
+.primary-navigation {
+  font-size: large; /* Keep the original size for navigation */
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
@@ -313,3 +334,4 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+

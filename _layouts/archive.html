@@ -12,7 +12,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+
+<div id="main" role="main" class="page-{{ page.title | downcase }}">
   {% include sidebar.html %}
 
   <div class="archive">
