@@ -29,7 +29,7 @@ My research interests are in applied microeconometrics and structural modelling,
 
   <div style="flex: 1; min-width: 200px;">
     <a href="https://sites.google.com/view/fredericdocquier/home" target="_blank" rel="noopener">Frederic Docquier</a><br>
-    IAE-CSIC and BSE<br>
+    LISER<br>
   </div>
 
 </div>
