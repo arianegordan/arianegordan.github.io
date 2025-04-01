@@ -4,7 +4,7 @@ Background and Local Exposure"
 collection: publications
 category: workingpaper
 permalink: /research/docquier-et-al-attitudes
-paperurl: 'https://liser.elsevierpure.com/fr/publications/attitudes-towards-immigration-in-a-highly-multicultural-society-t'
+paperurl: 'https://liser.elsevierpure.com/en/publications/attitudes-towards-immigration-in-a-highly-multicultural-society-t'
 citation: 'Frédéric Docquier & Ariane Gordan & Michel Tenikue & Aleksa Uljarevic, 2024. "Attitudes towards Immigration in a Highly Multicultural Society: The Roles of Foreign Background and Local Exposure," LISER Working Paper Series 2024-08, Luxembourg Institute of Socio-Economic Research (LISER).'
 ---
 (with Frederic Docquier, Michel Tenikue, and Aleksa Uljarevic) <br><br>
