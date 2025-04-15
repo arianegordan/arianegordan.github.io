@@ -1,5 +1,5 @@
 ---
-title: "The role of Location for Marriage and Work"
+title: "Marriage Matters: Internal Migration and Marital Sorting in Indonesia"
 collection: publications
 category: progress
 permalink: /research/jmp-gordan
