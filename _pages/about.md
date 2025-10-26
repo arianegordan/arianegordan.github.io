@@ -13,7 +13,7 @@ I am a PhD Candidate in Economics at the [Department of Economics and Management
 
 <b>I am on the 2025-2026 job market.<b>
 
-My research interests are in applied microeconometrics and policy evaluation, with a focus on migration, development, and family economics. In my [Job Market Paper](https://arianegordan.github.io/assets/files/jmp-gordan.pdf), I use a structural model to explore how internal migration and marriage decisions interact in Indonesia. 
+My research interests are in applied microeconomics and labor economics, with a focus on migration, development, and family economics. In my [Job Market Paper](https://arianegordan.github.io/assets/files/jmp-gordan.pdf), I use a structural model to explore how internal migration and marriage decisions interact in Indonesia. 
 
 ## References
 
