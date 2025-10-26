@@ -21,7 +21,7 @@ repository               : "arianegordan/arianegordan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   name             : "Ariane Gordan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
@@ -87,7 +87,7 @@ publication_category:
   workingpaper: 
     title: 'Working Papers'  
   progress:
-    title: 'Work in Progress'
+    title: 'Other Work in Progress'
 
 
 # Site Settings
@@ -223,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true

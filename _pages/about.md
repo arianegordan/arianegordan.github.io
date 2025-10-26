@@ -11,7 +11,9 @@ Welcome to my website!
 
 I am a PhD Candidate in Economics at the [Department of Economics and Management](https://www.uni.lu/fdef-en/research-departments/department-of-economics-and-management/) at the University of Luxembourg and part of the [ACROSS Doctoral Training Unit](https://across.liser.lu/). In fall 2024, I visited the Department of Economics and Economic History at Universitat Autònoma de Barcelona. 
 
-My research interests are in applied microeconometrics and structural modelling, with a focus on migration, development, gender and family economics. 
+<b>I am on the 2025-2026 job market.<b>
+
+My research interests are in applied microeconometrics and policy evaluation, with a focus on migration, development, and family economics. In my [Job Market Paper](https://arianegordan.github.io/assets/files/jmp-gordan.pdf), I use a structural model to explore how internal migration and marriage decisions interact in Indonesia. 
 
 ## References
 

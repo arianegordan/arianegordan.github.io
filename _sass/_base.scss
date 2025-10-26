@@ -21,6 +21,15 @@ body {
   }
 }
 
+/* Narrow selector: only color top-level category headers */
+.page-research > .archive > h2 {
+  color: #5c9fec;
+  font-weight: 600;
+  margin-top: 1.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 .teaching-page {
   font-size: 14px;
 }
